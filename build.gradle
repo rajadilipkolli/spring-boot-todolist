@@ -85,7 +85,7 @@ springBoot {
 }
 
 bootJar {
-    //launchScript()
+    launchScript()
 }
 //bootBuildInfo.mustRunAfter processResources
 bootBuildImage {
